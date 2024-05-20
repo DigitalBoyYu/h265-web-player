@@ -1,4 +1,4 @@
-English version [please click here](https://github.com/DigitalBoyYu/h265-web-player/blob/master/README_en.md).
+English version [https://github.com/DigitalBoyYu/h265-web-player/blob/master/README_en.md](https://github.com/DigitalBoyYu/h265-web-player/blob/master/README_en.md).
 
 # 1 背景
 # 1.1 描述
