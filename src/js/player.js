@@ -44,7 +44,7 @@ Player.prototype.init = function (options) {
     this.height = options.height ? options.height : 0
     this.canvas = options.canvas ? options.canvas : nul
     // 下载worker,在初始化命令中
-    this.worker = new Worker("js/worker.js");
+    this.worker = new Worker("src/js/worker.js");
     // 创建了worker的监听
     let self = this
     this.worker.onmessage = function (evt) {
