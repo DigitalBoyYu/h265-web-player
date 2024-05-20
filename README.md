@@ -39,8 +39,8 @@ github地址: [https://github.com/DigitalBoyYu/h265-web-player](https://github.c
 ## 4.2 功能与接口
 ### 4.2.1 播放器功能
 - play：开始播放；
-- pause：暂停播放； 调试中（短期内会更新）
-- resume：恢复播放；暂未实现。（短期内会更新）
+- pause：暂停播放；
+- resume：恢复播放；
 - stop：停止播放；
 - fullscreen：全屏播放； 
 - seek：seek播放未实现。（短期内会更新）

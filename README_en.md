@@ -39,8 +39,8 @@ There are two main threads:
 ## 4.2 Functions and Interfaces
 ## 4.2.1 Player Functions
 - play: start playback;
-- pause: pause the playback; under debugging (will be updated shortly)
-- resume: resume playback; not yet realized. (will be updated in the near future)
+- pause: pause the playback; 
+- resume: resume playback; 
 - stop: stop playback;
 - fullscreen: fullscreen playback; 
 - seek: seek playback not yet implemented. (will be updated soon)
