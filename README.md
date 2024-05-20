@@ -1,3 +1,5 @@
+English version [please click here](https://github.com/DigitalBoyYu/h265-web-player/blob/master/README_en.md).
+
 # 1 背景
 # 1.1 描述
 本项目代码参考学习[WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer),如需学习的小伙伴请查看该项目源码。
