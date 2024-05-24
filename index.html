@@ -29,17 +29,17 @@
         .control_area {
             width: 100%;
             height: 60px;
-            opacity: 0;
+            opacity: 1;
             position: absolute;
             bottom: 0;
             background: #000;
             z-index: 100;
-            transition: opacity 0.5s ease;
+            /* transition: opacity 0.5s ease; */
         }
 
-        .area:hover .control_area {
+        /* .area:hover .control_area {
             opacity: 1;
-        }
+        } */
 
         .process {
             width: 100%;
@@ -171,11 +171,11 @@
 
 
         let player = new Player()
-        player.init({
+        player.createPlayer({
             width: 500,
             height: 500,
             canvas: canvas,
-            url: 'http://localhost:3000/src/video/h265.mp4'
+            url: 'http://localhost:3000/src/video/h264.flv'
         })
 
 

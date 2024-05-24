@@ -37,7 +37,7 @@ function Player(options) {
 
 }
 
-Player.prototype.init = function (options) {
+Player.prototype.createPlayer = function (options) {
     console.log('Player init')
     this.url = options.url ? options.url : ''
     this.width = options.width ? options.width : 0
